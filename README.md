@@ -1,5 +1,5 @@
 # Twitter Clone using React
-### by Suraj Himanshu, Sachin, Renaissance, Abhishek
+### by Suraj Himanshu, Sachin, Abhishek
 
 #### Dependencies
 
