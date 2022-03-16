@@ -55,20 +55,17 @@ npm run start
 1. Styled Components
    <br/>
    <br/>
-# Home
-<img src="./public/twitterHome.jpg">
+# Signup
+![](https://user-images.githubusercontent.com/90366728/158645211-b443e10f-03df-4eb3-8225-a1ac9c31e1fd.PNG)
 
-# Explore
-<img src="./public/twitterExplore.jpg">
+# Home
+![](https://user-images.githubusercontent.com/90366728/158645335-af8cb626-e25b-407e-9bed-48097896d20d.PNG)
+
 
 # Profile
-<img src="./public/twitterProfile.jpg">
 
-# Bookmarks
-<img src="./public/twitterBookmarks.jpg">
+![](https://user-images.githubusercontent.com/90366728/158645374-cdd4601f-ad1c-4cc9-8eb8-2b5dfeecfaf6.PNG)
 
-# Settings
-<img src="./public/twitterSettings.jpg">
 
 ---
 
