@@ -73,8 +73,7 @@ npm run start
 
 
 
-- Website: https://abhi-aro.herokuapp.com/
-
+- Website: https://twitter-clone-masai.herokuapp.com/
 
 ## Show your support
 
