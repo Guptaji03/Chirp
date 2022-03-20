@@ -44,6 +44,10 @@ npm install
 npm run start
 ```
 
+### Features
+
+In this Application user can post, like, bookmark, and see his/her profile. User can also reset the password and can search for any profile.
+
 ## Dependencies and Tech stack used
 
 1. React
