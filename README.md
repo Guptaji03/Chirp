@@ -70,6 +70,14 @@ In this Application user can post, like, bookmark, and see his/her profile. User
 
 ![](https://user-images.githubusercontent.com/90366728/158645374-cdd4601f-ad1c-4cc9-8eb8-2b5dfeecfaf6.PNG)
 
+# User Information
+
+![settiing](https://user-images.githubusercontent.com/90366728/159168139-5dcde2c6-753a-484a-b8e6-974ee2c04087.PNG)
+
+# Password section
+
+![pass](https://user-images.githubusercontent.com/90366728/159168150-fedc4572-4453-4ea3-9d55-c04ec31f86c2.PNG)
+
 
 ---
 
